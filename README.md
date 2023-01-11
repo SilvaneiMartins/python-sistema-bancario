@@ -1,5 +1,5 @@
 <h1 align="center">
-   APP MSN CLONE MICROSOFT
+   SISTEMA BANCARIO + PYTHON
     <br />
    Versão: 1.0
 </h1>
@@ -16,6 +16,8 @@
     <br />
 </h1>
 
+### 🚀 🚀 🚀 Project Information
+
 Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações depósito, saque e extrato.
 
 Deve ser possível depositar valores positivos para minha conta bancária. A v1 do projeto trabalha com apenas 1 usuário, dessa forma não precisamos nos preocupar em identicar qual é o número de agência e conta bancária. Todos os dpósitos devem ser armazenadaos em uma variavel e exibidos na operação de extrato.
@@ -24,7 +26,7 @@ O Sistema deve permitir realizar 3 saques diários com limite máximo de 500 rea
 
 Todos os saques devem ser armazenados em uma variavel e exibidos na operação de extrato.
 
-### Features 🚀 🚀 🚀
+### 📄 Features
 
 -   [X] Depósito.
 -   [X] Saque.
@@ -52,7 +54,7 @@ Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acess
 -   [REACT](https://www.python.org/)
 
 
-### Developer
+### 🚀🚀🚀 Developer
 
 <a href="https://github.com/SilvaneiMartins">
     <img
