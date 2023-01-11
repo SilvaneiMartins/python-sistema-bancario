@@ -51,7 +51,7 @@ Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acess
 
 ## 🛠 Tecnologias usada no projeto
 
--   [REACT](https://www.python.org/)
+-   [FERRAMENTA PYTHON](https://www.python.org/)
 
 
 ### 🚀🚀🚀 Developer
